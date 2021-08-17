@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\bin\Debug\net5.0\Q1.exe
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\bin\Debug\net5.0\Q1.deps.json
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\bin\Debug\net5.0\Q1.runtimeconfig.json
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\bin\Debug\net5.0\Q1.runtimeconfig.dev.json
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\bin\Debug\net5.0\Q1.dll
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\bin\Debug\net5.0\ref\Q1.dll
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\bin\Debug\net5.0\Q1.pdb
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\Q1.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\Q1.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\Q1.AssemblyInfo.cs
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\Q1.dll
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\ref\Q1.dll
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\Q1.pdb
+C:\Users\Taha\Desktop\SAMM TEKNOLOJİ\Q1\obj\Debug\net5.0\Q1.genruntimeconfig.cache
